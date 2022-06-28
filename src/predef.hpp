@@ -65,9 +65,9 @@ class SurvivorF_Naomi;
 // Areas
 class ContaminatedArea_Static: EffectArea
 {
-    scope=0;
+    scope=2;
 };
 class ContaminatedArea_Dynamic: EffectArea
 {
-    scope=0;
+    scope=2;
 };
